@@ -1,0 +1,9 @@
+{
+	"apps": [
+		{
+			"name": "wms-gestao",
+			"script": "yarn",
+			"args" : "start"
+		}
+	]
+}
